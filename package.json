@@ -1,0 +1,31 @@
+{
+  "name": "music",
+  "version": "12.1.1",
+  "description": "music",
+  "main": "index.js",
+  "dependencies": {
+    "discord-player": "^2.3.1",
+    "discord.js": "^12.3.1",
+    "express": "^4.17.1",
+    "moment": "^2.27.0",
+    "moment-duration-format": "^2.3.2",
+    "quick.db": "^7.1.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ZerioDev/Music-bot.git"
+  },
+  "keywords": [
+    "music"
+  ],
+  "author": "fynx",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ZerioDev/Music-bot/issues"
+  },
+  "homepage": "https://github.com/ZerioDev/Music-bot#readme"
+}
