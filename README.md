@@ -2,7 +2,7 @@
 
 //-------------------------------------------------------------------------------------------//
 
-✔ Arda#8888 tarafından yapılmıştır.
+✔ Arda#6688 tarafından yapılmıştır.
 
 ✘ Çalınması, kopyalanması veya başka sunucularda paylaşılması yasaktır.
 
