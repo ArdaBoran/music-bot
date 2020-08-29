@@ -2,8 +2,8 @@
 
 //-------------------------------------------------------------------------------------------//
 
-✔ Arda#6688 tarafından yapılmıştır.
-
+✔ Arda#0666 tarafından yapılmıştır.
+✔ EX#8888 tarafından geliştirilmiştir.
 ✘ Çalınması, kopyalanması veya başka sunucularda paylaşılması yasaktır.
 
 //-------------------------------------------------------------------------------------------//
