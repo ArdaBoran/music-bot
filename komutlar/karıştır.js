@@ -13,5 +13,5 @@ return message.channel.send({embed: {color: ServantDogru, description: `:heavy_c
 
 module.exports.config = {
     name: "karıştır",
-    aliases: []
+    aliases: ["mix"]
 };

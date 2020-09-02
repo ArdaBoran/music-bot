@@ -17,5 +17,5 @@ message.channel.send(calanembed)
 
 module.exports.config = {
     name: "çalan",
-    aliases: []
+    aliases: ["playing"]
 };

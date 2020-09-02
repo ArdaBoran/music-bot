@@ -13,5 +13,5 @@ message.channel.send({embed: {color: ServantDogru, description: `:heavy_check_ma
 
 module.exports.config = {
     name: "devam",
-    aliases: ["devamet", "devam-et"]
+    aliases: ["devamet", "devam-et","resume"]
 };

@@ -22,5 +22,5 @@ message.channel.send({embed: {color: ServantHata, description: `:heavy_check_mar
 
 module.exports.config = {
     name: "oynat",
-    aliases: ["çal","p"]
+    aliases: ["çal","p","play"]
 };

@@ -1,31 +1,34 @@
 {
-  "name": "music",
-  "version": "12.1.1",
-  "description": "music",
+  "name": "servantmusic",
+  "version": "1.0.0",
   "main": "index.js",
-  "dependencies": {
-    "discord-player": "^2.3.1",
-    "discord.js": "^12.3.1",
-    "express": "^4.17.1",
-    "moment": "^2.27.0",
-    "moment-duration-format": "^2.3.2",
-    "quick.db": "^7.1.1"
+  "author": "ServantMusic",
+  "license": "MIT",
+  "engines": {
+    "node": "12.x"
   },
-  "devDependencies": {},
   "scripts": {
-    "test": "node index.js"
+    "start": "node index.js"
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/ZerioDev/Music-bot.git"
-  },
-  "keywords": [
-    "music"
-  ],
-  "author": "fynx",
-  "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/ZerioDev/Music-bot/issues"
-  },
-  "homepage": "https://github.com/ZerioDev/Music-bot#readme"
+  "dependencies": {
+    "@discordjs/opus": "^0.3.2",
+    "chalk": "^4.1.0",
+    "common-tags": "^1.8.0",
+    "jimp": "^0.14.0",
+    "moment-duration-format": "^2.3.2",
+    "chalk": "^4.1.0",
+    "discord-akairo": "^8.0.0",
+    "discord-anti-spam": "^2.4.1",
+    "discord-giveaways": "^4.0.2",
+    "discord-player": "^1.4.1",
+    "discord.js": "12.1.1",
+    "express": "^4.17.1",
+    "ffmpeg-static": "^4.2.1",
+    "fs": "^0.0.2",
+    "get-youtube-id": "^1.0.1",
+    "moment": "^2.27.0",
+    "quick.db": "^7.1.1",
+    "ytdl-core": "^2.1.2",
+    "ytdl-core-discord": "^1.2.0"
+  }
 }

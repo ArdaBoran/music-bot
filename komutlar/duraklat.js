@@ -13,5 +13,5 @@ message.channel.send({embed: {color: ServantDogru, description: `:heavy_check_ma
 
 module.exports.config = {
   name: "duraklat",
-  aliases: []
+  aliases: ["pause"]
 }

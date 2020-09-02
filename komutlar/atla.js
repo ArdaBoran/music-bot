@@ -13,5 +13,5 @@ message.channel.send({embed: {color: ServantDogru, description: ` :heavy_check_m
 
 module.exports.config = {
     name: "atla",
-    aliases: ["geç"]
+    aliases: ["geç","skip","s"]
 };

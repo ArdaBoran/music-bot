@@ -16,5 +16,5 @@ message.channel.send({embed: {color: ServantDogru, title: `Servant Music Müzik 
   
 module.exports.config = {
     name: "kuyruk",
-    aliases: []
+    aliases: ["queue"]
 };

@@ -17,7 +17,7 @@ const emmmmbed = new Discord.MessageEmbed()
 erimi sunarım`)
 .addField(`Servant - Prefix(Ön Ek)`, `Servant Music botun prefixi(ön eki) = \`+\`(artı)'dir.`)
 .addField(`Servant Music - Nasıl Kullanılır?`, `Servant Music botun tüm özelliklerinden yararlanabilmek için sadece \`+yardım\` yazmanız gerekmektedir.`)
-.addField(`Servant Music - Linkler`, `Destek Sunucumuz:\nhttps://discord.gg/QPUURae` , `Bot Davet Linki:\nhttps://discord.com/oauth2/authorize?client_id=744191034933641218&scope=bot&permissions=8`)
+.addField(`Servant Music - Linkler`, `Destek Sunucumuz:\nhttps://discord.gg/QPUURae` , `Bot Davet Linki:\nhttps://discord.com/oauth2/authorize?client_id=744191034933641218&scope=bot&permissions=1110469696`)
 .setFooter(`Servant Music © 2020`)
 .setTimestamp()
 .setImage(`https://i.pinimg.com/originals/a7/2e/dd/a72eddb090f20f7f8dd535c8390c2fba.gif`);
@@ -102,7 +102,7 @@ newState.setSelfDeaf(true);
 //---------------------------------------------------------\\
 
 client.on("ready", ready => { 
-client.user.setActivity(`Servant Music | +yardım | created by Arda#8888         | ` + client.guilds.cache.size + ` Sunucu | ` + client.guilds.cache.reduce((a, b) => a + b.memberCount, 0).toLocaleString() + ` Kullanıcı`, { type: 'LISTENING' });
+client.user.setActivity(`Servant Music | +yardım | +help |  created by Arda#6688         | ` + client.guilds.cache.size + ` Sunucu | ` + client.guilds.cache.reduce((a, b) => a + b.memberCount, 0).toLocaleString() + ` Kullanıcı`, { type: 'LISTENING' });
 });
 client.login(fynx.fynxtoken)
 .then(function() {
