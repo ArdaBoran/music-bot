@@ -37,7 +37,7 @@ botunuz otomatik olarak aktif olacaktır.
 
 **3-** Application kısmından "New Application" seçeneğine tıklayın.
 
-**4-** Önünüze gelen pencerede botunuza bir isim verin. Ben Servant Musickoydum.
+**4-** Önünüze gelen pencerede botunuza bir isim verin. Ben Servant Music koydum.
 
 **5-** General İnformation kısmından botunuza resim ekleyebilirsiniz. Ben eklemeden geçiyorum.
 
